@@ -1,0 +1,12 @@
+C:\Users\Professional\source\repos\PIU\bin\Debug\PIU.exe.config
+C:\Users\Professional\source\repos\PIU\bin\Debug\PIU.exe
+C:\Users\Professional\source\repos\PIU\bin\Debug\PIU.pdb
+C:\Users\Professional\source\repos\PIU\obj\Debug\PIU.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\PIU\obj\Debug\PIU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Professional\source\repos\PIU\obj\Debug\PIU.Properties.Resources.resources
+C:\Users\Professional\source\repos\PIU\obj\Debug\PIU.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\PIU\obj\Debug\PIU.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\PIU\obj\Debug\PIU.exe
+C:\Users\Professional\source\repos\PIU\obj\Debug\PIU.pdb
+C:\Users\Professional\source\repos\PIU\obj\Debug\PIU.Form1.resources
+C:\Users\Professional\source\repos\PIU\obj\Debug\PIU.FormName.resources
